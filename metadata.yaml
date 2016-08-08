@@ -1,0 +1,30 @@
+_repo: Quatre-mois-de-l-exp-dition-de-Garibaldi-en-Sicilie-et-Italie_12751
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Durand-Brager
+    aliases:
+    - Durand-Brager, J. B. H. (Jean-Baptiste-Henri)
+    - Durand-Brager, Jean Baptiste Henri
+    - Durand-Brager, Henri
+    birthdate: 1814
+    deathdate: 1879
+    gutenberg_agent_id: '4557'
+    url: http://www.gutenberg.org/2009/agents/4557
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12751'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+- !lcsh 'Italy -- History -- War of 1860-1861 -- Campaigns'
+- !lcc 'DG'
+- GITenberg
+title: Quatre mois de l'expédition de Garibaldi en Sicilie et Italie
+url: http://www.gutenberg.org/ebooks/12751
