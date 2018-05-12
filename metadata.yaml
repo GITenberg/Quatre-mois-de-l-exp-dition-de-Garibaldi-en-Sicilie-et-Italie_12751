@@ -1,5 +1,8 @@
 _repo: Quatre-mois-de-l-exp-dition-de-Garibaldi-en-Sicilie-et-Italie_12751
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Durand-Brager
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '4557'
     url: http://www.gutenberg.org/2009/agents/4557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12751#Quatre-mois-de-l-exp-dition-de-Garibaldi-en-Sicilie-et-Italie
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2004-06-28'
 gutenberg_type: Text
